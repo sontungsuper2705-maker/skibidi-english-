@@ -1,0 +1,7 @@
+{
+  "name": "Skibidi English - Học Tiếng Anh Chuẩn Trend",
+  "description": "Ứng dụng học tiếng Anh vui nhộn dành cho Gen Z Việt Nam với phong cách Skibidi, AI Speaking Coach và Game hóa.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
